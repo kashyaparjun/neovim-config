@@ -19,6 +19,7 @@
 - **nvim-cmp** - Autocompletion
 - **LuaSnip** - Snippet engine
 - **none-ls** - Linting and formatting
+- **tiny-inline-diagnostic** - Inline diagnostic display
 
 ## Git Integration
 - **Gitsigns** - Git signs in gutter
@@ -34,6 +35,7 @@
 
 ## Specialized Tools
 - **swagger-preview** - Preview Swagger/OpenAPI specs
+- **claude-code** - Integration with Claude Code CLI
 
 ## Key Language Servers
 - TypeScript/JavaScript (ts_ls)
